@@ -1,0 +1,26 @@
+[2025-05-15 10:20:26] UserID: 1, Action: Register, Details: User hoainam1234 registered
+[2025-05-15 10:20:38] UserID: 1, Action: Login, Details: User hoainam1234 logged in
+[2025-05-15 10:20:38] UserID: 1, Action: View, Details: User hoainam1234 viewed their info
+[2025-05-16 20:41:14] UserID: 2, Action: Register, Details: User namkia205gmailcom registered
+[2025-05-16 20:41:56] UserID: 2, Action: Admin View, Details: Admin viewed sensitive data of namkia205gmailcom
+[2025-05-18 10:29:07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-05-18 10:29:13] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-05-18 10:29:36] UserID: Unknown, Action: Failed Login, Details: Failed login attempt with username: namkiagmail.com
+[2025-05-18 10:30:36] UserID: Unknown, Action: Failed Login, Details: Failed login attempt with username: namkia205gmailcom
+[2025-05-18 10:30:44] UserID: Unknown, Action: Failed Login, Details: Failed login attempt with username: namkia205gmailcom
+[2025-05-18 10:31:06] UserID: 3, Action: Register, Details: User namkia205gmailcomm registered with encrypted data - CMND: 4uw0I2WHvSzGhmEL7pB9gDTaYbWoIron, Address: ujLqIdrip4CWOlsc0HxFMfqBTMtSO9ifXJnnChAfAVT1JJoLeeGtPKcNJOE33ZZ30rod3ixuAspDKk+/aPQqLCCHDLjeiqewXQxReXJKSSQ=, Bank Account: se8wmlay0Uc15EJAXHTvx5cXy2+ISHPaxOW/Oep+11A=
+[2025-05-18 10:31:21] UserID: 3, Action: Login, Details: User namkia205gmailcomm logged in
+[2025-05-18 10:31:21] UserID: 3, Action: View, Details: User namkia205gmailcomm viewed their info - Decrypted: CMND=016064289488, Address=Xóm 7, thôn 4, xã Nhân Chính, Lý Nhân, Hà Nam, Bank Account=051108184054801
+[2025-05-18 10:31:39] UserID: Admin, Action: Admin Login, Details: Admin logged in
+[2025-05-18 10:31:39] UserID: Admin, Action: Admin View, Details: Admin viewed user list
+[2025-05-18 10:42:47] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-05-18 10:43:00] UserID: Admin, Action: Admin Login, Details: Admin logged in
+[2025-05-18 10:43:00] UserID: Admin, Action: Admin View, Details: Admin viewed user list
+[2025-05-18 10:43:55] UserID: Guest, Action: Access Denied, Details: Attempted to view user 1 without admin verification
+[2025-05-18 10:43:59] UserID: Admin, Action: Admin Login, Details: Admin logged in
+[2025-05-18 10:43:59] UserID: Admin, Action: Admin View, Details: Admin viewed user list
+[2025-05-18 10:46 AM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-05-18 10:46 AM +07] UserID: Admin, Action: Admin Login, Details: Admin logged in
+[2025-05-18 10:46 AM +07] UserID: Admin, Action: Admin View, Details: Admin viewed user list
+[2025-05-18 10:47 AM +07] UserID: Admin, Action: Admin View, Details: Admin viewed sensitive data of user namkia205gmailcomm - Decrypted: CMND=016064289488, Address=Xóm 7, thôn 4, xã Nhân Chính, Lý Nhân, Hà Nam, Bank Account=051108184054801
+[2025-05-22 01:16 AM +07] UserID: Guest, Action: Access, Details: Accessed homepage

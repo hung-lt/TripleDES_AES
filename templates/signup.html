@@ -1,0 +1,51 @@
+{% extends "layout.html" %}
+{% block title %}Đăng ký{% endblock %}
+{% block content %}
+    <h1>Đăng ký</h1>
+    <form method="post">
+        {{ form.hidden_tag() }}
+        <div class="mb-3">
+            <label class="form-label">{{ form.username.label }}</label>
+            {{ form.username(class="form-control") }}
+            {% for error in form.username.errors %}
+                <div class="text-danger">{{ error }}</div>
+            {% endfor %}
+        </div>
+        <div class="mb-3">
+            <label class="form-label">{{ form.password.label }}</label>
+            {{ form.password(class="form-control") }}
+            {% for error in form.password.errors %}
+                <div class="text-danger">{{ error }}</div>
+            {% endfor %}
+        </div>
+        <div class="mb-3">
+            <label class="form-label">{{ form.name.label }}</label>
+            {{ form.name(class="form-control") }}
+            {% for error in form.name.errors %}
+                <div class="text-danger">{{ error }}</div>
+            {% endfor %}
+        </div>
+        <div class="mb-3">
+            <label class="form-label">{{ form.cmnd.label }} (12 chữ số)</label>
+            {{ form.cmnd(class="form-control") }}
+            {% for error in form.cmnd.errors %}
+                <div class="text-danger">{{ error }}</div>
+            {% endfor %}
+        </div>
+        <div class="mb-3">
+            <label class="form-label">{{ form.diachi.label }}</label>
+            {{ form.diachi(class="form-control") }}
+            {% for error in form.diachi.errors %}
+                <div class="text-danger">{{ error }}</div>
+            {% endfor %}
+        </div>
+        <div class="mb-3">
+            <label class="form-label">{{ form.stk_nganhang.label }} (10-16 chữ số)</label>
+            {{ form.stk_nganhang(class="form-control") }}
+            {% for error in form.stk_nganhang.errors %}
+                <div class="text-danger">{{ error }}</div>
+            {% endfor %}
+        </div>
+        {{ form.submit(class="btn btn-primary") }}
+    </form>
+{% endblock %}

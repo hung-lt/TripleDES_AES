@@ -1,0 +1,11 @@
+{% extends "layout.html" %}
+{% block title %}Thông tin chi tiết{% endblock %}
+{% block content %}
+    <h1>Thông tin chi tiết: {{ user.username }}</h1>
+    <ul class="list-group">
+        <li class="list-group-item">Họ tên: {{ user.name }}</li>
+        <li class="list-group-item">Số CMND: {{ user.cmnd }}</li>
+        <li class="list-group-item">Địa chỉ: {{ user.diachi }}</li>
+        <li class="list-group-item">Số tài khoản: {{ user.stk_nganhang }}</li>
+    </ul>
+{% endblock %}

@@ -1,0 +1,57 @@
+{% extends "layout.html" %}
+{% block title %}Xem thông tin người dùng{% endblock %}
+{% block content %}
+    <h1 class="text-center mb-4">Xem thông tin người dùng</h1>
+
+    <!-- Form xác minh mật khẩu admin -->
+    {% if not user %}
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <form method="POST">
+                    {{ form.hidden_tag() }}
+                    <div class="mb-3">
+                        <label for="{{ form.password.id }}" class="form-label">Mật khẩu admin</label>
+                        {{ form.password(class="form-control", placeholder="Nhập mật khẩu admin") }}
+                    </div>
+                    <div class="text-center">
+                        {{ form.submit(class="btn btn-primary") }}
+                    </div>
+                </form>
+            </div>
+        </div>
+    {% endif %}
+
+    <!-- Hiển thị thông tin người dùng nếu xác minh thành công -->
+    {% if user %}
+        <div class="row justify-content-center">
+            <div class="col-md-8">
+                <h3>Thông tin chi tiết</h3>
+                <table class="table table-bordered">
+                    <tr>
+                        <th>Tên đăng nhập</th>
+                        <td>{{ user.username }}</td>
+                    </tr>
+                    <tr>
+                        <th>Họ tên</th>
+                        <td>{{ user.name }}</td>
+                    </tr>
+                    <tr>
+                        <th>Số CMND</th>
+                        <td>{{ user.cmnd }}</td>
+                    </tr>
+                    <tr>
+                        <th>Địa chỉ</th>
+                        <td>{{ user.diachi }}</td>
+                    </tr>
+                    <tr>
+                        <th>Số tài khoản</th>
+                        <td>{{ user.stk_nganhang }}</td>
+                    </tr>
+                </table>
+                <div class="text-center">
+                    <a href="{{ url_for('admin_panel') }}" class="btn btn-secondary">Quay lại</a>
+                </div>
+            </div>
+        </div>
+    {% endif %}
+{% endblock %}
