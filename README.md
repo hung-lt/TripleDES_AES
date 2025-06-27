@@ -31,24 +31,6 @@ Trong thời đại số, việc bảo mật thông tin nhạy cảm trong cơ s
 
 ---
 
-## 📁 Cấu trúc thư mục
-
-├── main.py                # Chương trình chính
-
-├── encryption/
-
-│   ├── aes_utils.py       # Hàm hỗ trợ mã hóa 
-
-│   └── triple_des_utils.py# Hàm hỗ trợ mã hóa Triple DES
-
-├── database
-
-│   └── db.sqlite3         # Cơ sở dữ liệu 
-
-├── README.md              # Tài liệu này
-
----
-
 ## 📊 So sánh Triple DES và AES
 
 | Tiêu chí          | Triple DES       | AES (128/192/256 bit)   |
