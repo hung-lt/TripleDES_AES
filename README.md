@@ -18,7 +18,7 @@ Trong thời đại số, việc bảo mật thông tin nhạy cảm trong cơ s
 
 ## 🛠️ Công nghệ sử dụng
 
-- Ngôn ngữ lập trình: **C#**
+- Ngôn ngữ lập trình: **PYTHON**
 
 ---
 
