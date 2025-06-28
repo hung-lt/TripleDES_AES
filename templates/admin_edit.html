@@ -1,7 +1,7 @@
 {% extends "base.html" %}
-{% block title %}Đăng ký tài khoản{% endblock %}
+{% block title %}Sửa thông tin người dùng{% endblock %}
 {% block content %}
-<h2>Đăng ký tài khoản</h2>
+<h2>Sửa thông tin người dùng (ID: {{ user_id }})</h2>
 {% with messages = get_flashed_messages(with_categories=true) %}
     {% if messages %}
         {% for category, message in messages %}
@@ -11,18 +11,6 @@
 {% endwith %}
 <form method="POST">
     {{ form.hidden_tag() }}
-    <div class="form-group">
-        {{ form.username.label }} {{ form.username(class="form-control") }}
-        {% for error in form.username.errors %}
-            <div class="alert alert-danger" role="alert">{{ error }}</div>
-        {% endfor %}
-    </div>
-    <div class="form-group">
-        {{ form.password.label }} {{ form.password(class="form-control") }}
-        {% for error in form.password.errors %}
-            <div class="alert alert-danger" role="alert">{{ error }}</div>
-        {% endfor %}
-    </div>
     <div class="form-group">
         {{ form.name.label }} {{ form.name(class="form-control") }}
         {% for error in form.name.errors %}
@@ -55,4 +43,5 @@
     </div>
     {{ form.submit(class="btn btn-success") }}
 </form>
+<a href="{{ url_for('admin_panel') }}" class="btn btn-secondary">Quay lại</a>
 {% endblock %}

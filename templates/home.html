@@ -1,5 +1,7 @@
-{% extends "layout.html" %}
-{% block title %}Hệ thống Bảo mật Thông tin{% endblock %}
+{% extends "base.html" %}
+{% block title %}Trang chủ{% endblock %}
 {% block content %}
-    <h1 class="text-center">Hệ thống Quản lý Thông tin Người dùng</h1>
+<h2>Chào mừng đến hệ thống bảo mật!</h2>
+<a href="{{ url_for('register') }}" class="btn btn-primary">Đăng ký</a>
+<a href="{{ url_for('login') }}" class="btn btn-success">Đăng nhập</a>
 {% endblock %}

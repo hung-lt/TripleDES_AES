@@ -1,27 +1,64 @@
-{% extends "layout.html" %}
-{% block title %}Bảng Quản trị{% endblock %}
+{% extends "base.html" %}
+{% block title %}Bảng điều khiển Admin{% endblock %}
 {% block content %}
-    <h1>Bảng Quản trị</h1>
-    <table class="table table-striped">
-        <thead>
-            <tr>
-                <th>ID</th>
-                <th>Tên đăng nhập</th>
-                <th>Họ tên</th>
-                <th>Hành động</th>
-            </tr>
-        </thead>
-        <tbody>
-            {% for user in users %}
+<div class="container mt-4">
+    <h2>Bảng điều khiển Admin</h2>
+    
+    <!-- Thông báo flash với hiệu ứng đóng -->
+    {% with messages = get_flashed_messages(with_categories=true) %}
+        {% if messages %}
+            <div class="mb-3">
+                {% for category, message in messages %}
+                    <div class="alert alert-{{ category }} alert-dismissible fade show" role="alert">
+                        {{ message }}
+                        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                    </div>
+                {% endfor %}
+                <script>
+                    setTimeout(() => {
+                        document.querySelectorAll('.alert').forEach(alert => alert.classList.remove('show'));
+                    }, 5000); // Tự động ẩn sau 5 giây
+                </script>
+            </div>
+        {% endif %}
+    {% endwith %}
+
+    <!-- Kiểm tra và hiển thị bảng -->
+    {% if users %}
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Tên đăng nhập</th>
+                    <th>Họ tên</th>
+                    <th>Lần thử đăng nhập</th>
+                    <th>Khóa đến</th>
+                    <th>Hành động</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for user in users %}
                 <tr>
                     <td>{{ user[0] }}</td>
                     <td>{{ user[1] }}</td>
                     <td>{{ user[2] }}</td>
+                    <td>{{ user[3] }}</td>
+                    <td>{{ user[4] | default('Không khóa', true) }}</td>
                     <td>
-                        <a href="{{ url_for('admin_view', user_id=user[0]) }}" class="btn btn-primary btn-sm">Xem chi tiết</a>
+                        <div class="btn-group" role="group">
+                            <a href="{{ url_for('admin_view', user_id=user[0]) }}" class="btn btn-info btn-sm me-1">Xem</a>
+                            <a href="{{ url_for('admin_edit', user_id=user[0]) }}" class="btn btn-warning btn-sm me-1">Sửa</a>
+                            <a href="{{ url_for('admin_delete', user_id=user[0]) }}" class="btn btn-danger btn-sm" onclick="return confirm('Bạn có chắc chắn muốn xóa?')">Xóa</a>
+                        </div>
                     </td>
                 </tr>
-            {% endfor %}
-        </tbody>
-    </table>
+                {% endfor %}
+            </tbody>
+        </table>
+    {% else %}
+        <div class="alert alert-warning">
+            Không có người dùng nào để hiển thị.
+        </div>
+    {% endif %}
+</div>
 {% endblock %}

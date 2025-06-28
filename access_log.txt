@@ -24,3 +24,233 @@
 [2025-05-18 10:46 AM +07] UserID: Admin, Action: Admin View, Details: Admin viewed user list
 [2025-05-18 10:47 AM +07] UserID: Admin, Action: Admin View, Details: Admin viewed sensitive data of user namkia205gmailcomm - Decrypted: CMND=016064289488, Address=Xóm 7, thôn 4, xã Nhân Chính, Lý Nhân, Hà Nam, Bank Account=051108184054801
 [2025-05-22 01:16 AM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-24 11:23 AM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-24 11:23 AM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-24 11:24 AM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-24 11:27 AM +07] UserID: Unknown, Action: Failed Login, Details: Failed login attempt with username: hoainam1234
+[2025-06-24 12:57 PM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-24 12:57 PM +07] UserID: 4, Action: Register, Details: User 1771020498 registered with encrypted data - CMND: bbTp0LPSvaHsfaZ/duLBvwU7qZP7Nb/g, Address: pYw/xsSzbFndHdbWDbm7FIoGDRpvHeQ37ZDPSgfYf3Y=, Bank Account: dVkIXHOsnfdDig+Wb8g3XIHRMQqLXBVxSwWIsv56wfM=
+[2025-06-24 12:58 PM +07] UserID: 4, Action: Login, Details: User 1771020498 logged in
+[2025-06-24 12:58 PM +07] UserID: 4, Action: View, Details: User 1771020498 viewed their info - Decrypted: CMND=123456789111, Address=hà nam, Bank Account=1894284648484
+[2025-06-24 12:59 PM +07] UserID: 4, Action: View, Details: User 1771020498 viewed their info - Decrypted: CMND=123456789111, Address=hà nam, Bank Account=1894284648484
+[2025-06-24 12:59 PM +07] UserID: 4, Action: Login, Details: User 1771020498 logged in
+[2025-06-24 12:59 PM +07] UserID: 4, Action: View, Details: User 1771020498 viewed their info - Decrypted: CMND=123456789111, Address=hà nam, Bank Account=1894284648484
+[2025-06-24 12:59 PM +07] UserID: Admin, Action: Admin Login, Details: Admin logged in
+[2025-06-24 12:59 PM +07] UserID: Admin, Action: Admin View, Details: Admin viewed user list
+[2025-06-24 12:59 PM +07] UserID: Admin, Action: Admin View, Details: Admin viewed sensitive data of user 1771020498 - Decrypted: CMND=123456789111, Address=hà nam, Bank Account=1894284648484
+[2025-06-24 12:59 PM +07] UserID: 4, Action: Access, Details: Accessed homepage
+[2025-06-24 12:59 PM +07] UserID: 4, Action: Login, Details: User 1771020498 logged in
+[2025-06-24 12:59 PM +07] UserID: 4, Action: View, Details: User 1771020498 viewed their info - Decrypted: CMND=123456789111, Address=hà nam, Bank Account=1894284648484
+[2025-06-24 01:05 PM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-24 01:06 PM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-24 01:18 PM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-24 01:20 PM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-24 01:22 PM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-24 01:22 PM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-24 01:22 PM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-24 01:22 PM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-24 01:23 PM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-24 01:26 PM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-24 03:34 PM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-24 03:36 PM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-24 03:38 PM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-24 03:40 PM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-24 03:53 PM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-24 03:57 PM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-24 04:03 PM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-24 04:06 PM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-24 04:09 PM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-24 04:09 PM +07] UserID: Admin, Action: Admin Login, Details: Admin logged in
+[2025-06-24 04:09 PM +07] UserID: Admin, Action: Admin View, Details: Admin viewed user list
+[2025-06-24 04:11 PM +07] UserID: Admin, Action: Admin View, Details: Admin viewed sensitive data of user namkia205gmailcomm - Decrypted: CMND=016064289488, Address=Xóm 7, thôn 4, xã Nhân Chính, Lý Nhân, Hà Nam, Bank Account=051108184054801
+[2025-06-24 04:11 PM +07] UserID: Admin, Action: Admin View, Details: Admin viewed user list
+[2025-06-24 04:11 PM +07] UserID: Admin, Action: Admin View, Details: Admin viewed user list
+[2025-06-24 04:11 PM +07] UserID: Unknown, Action: Logout, Details: User Unknown logged out
+[2025-06-24 04:11 PM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-25 12:13 AM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-25 12:25 AM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-25 12:26 AM +07] UserID: Unknown, Action: Failed Login, Details: Failed login attempt with username: 1771020498
+[2025-06-25 12:27 AM +07] UserID: Unknown, Action: Failed Login, Details: Failed login attempt with username: 1771020498
+[2025-06-25 12:27 AM +07] UserID: Unknown, Action: Failed Login, Details: Failed login attempt with username: 1771020498
+[2025-06-25 12:33 AM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-25 12:34 AM +07] UserID: 5, Action: Register, Details: User hoainam1234 registered with encrypted data
+[2025-06-25 12:34 AM +07] UserID: 5, Action: Login, Details: User hoainam1234 logged in
+[2025-06-25 12:34 AM +07] UserID: 5, Action: View, Details: User hoainam1234 viewed their info
+[2025-06-25 12:34 AM +07] UserID: 5, Action: View, Details: User hoainam1234 viewed their info
+[2025-06-25 12:35 AM +07] UserID: 5, Action: Logout, Details: User hoainam1234 logged out
+[2025-06-25 12:35 AM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-25 12:37 AM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-25 12:38 AM +07] UserID: 1, Action: Admin Login, Details: Admin logged in
+[2025-06-25 12:38 AM +07] UserID: Admin, Action: Admin View, Details: Admin viewed user list
+[2025-06-25 12:38 AM +07] UserID: Admin, Action: Admin View, Details: Admin viewed sensitive data of user hoainam1234
+[2025-06-25 12:38 AM +07] UserID: Admin, Action: Admin View, Details: Admin viewed user list
+[2025-06-25 12:38 AM +07] UserID: 1, Action: View, Details: User admin viewed their info
+[2025-06-25 12:38 AM +07] UserID: 1, Action: View, Details: User admin viewed their info
+[2025-06-25 12:38 AM +07] UserID: 1, Action: Logout, Details: User admin logged out
+[2025-06-25 12:38 AM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-25 12:38 AM +07] UserID: 1, Action: Admin Login, Details: Admin logged in
+[2025-06-25 12:38 AM +07] UserID: Admin, Action: Admin View, Details: Admin viewed user list
+[2025-06-25 12:38 AM +07] UserID: Admin, Action: Admin View, Details: Admin viewed sensitive data of user hoainam1234
+[2025-06-25 12:44 AM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-25 12:46 AM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-25 12:46 AM +07] UserID: 5, Action: Login, Details: User hoainam1234 logged in
+[2025-06-25 12:46 AM +07] UserID: 5, Action: View, Details: User hoainam1234 viewed their info
+[2025-06-25 12:46 AM +07] UserID: 5, Action: View, Details: User hoainam1234 viewed their info
+[2025-06-25 12:46 AM +07] UserID: 5, Action: View, Details: User hoainam1234 viewed their info
+[2025-06-25 12:46 AM +07] UserID: 5, Action: Logout, Details: User hoainam1234 logged out
+[2025-06-25 12:46 AM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-25 12:47 AM +07] UserID: 1, Action: Admin Login, Details: Admin logged in
+[2025-06-25 12:47 AM +07] UserID: Admin, Action: Admin View, Details: Admin viewed user list
+[2025-06-25 12:47 AM +07] UserID: Admin, Action: Admin View, Details: Admin viewed user list
+[2025-06-25 12:47 AM +07] UserID: Admin, Action: Admin Delete, Details: Admin deleted user hoainam1234
+[2025-06-25 12:47 AM +07] UserID: Admin, Action: Admin View, Details: Admin viewed user list
+[2025-06-25 12:47 AM +07] UserID: 1, Action: View, Details: User admin viewed their info
+[2025-06-25 12:47 AM +07] UserID: 1, Action: Logout, Details: User admin logged out
+[2025-06-25 12:47 AM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-25 12:47 AM +07] UserID: Unknown, Action: Failed Login, Details: Failed login attempt with username: hoainam1234
+[2025-06-26 02:54 PM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-26 02:55 PM +07] UserID: Unknown, Action: Failed Login, Details: Failed login attempt with username: 1771020498
+[2025-06-26 02:55 PM +07] UserID: Unknown, Action: Failed Login, Details: Failed login attempt with username: hoainam1234
+[2025-06-26 02:55 PM +07] UserID: Unknown, Action: Failed Login, Details: Failed login attempt with username: hoainam1234
+[2025-06-26 02:55 PM +07] UserID: Unknown, Action: Failed Login, Details: Failed login attempt with username: hoainam1234
+[2025-06-26 02:58 PM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-26 02:58 PM +07] UserID: 1, Action: Admin Login, Details: Admin logged in
+[2025-06-26 02:58 PM +07] UserID: Admin, Action: Admin View, Details: Admin viewed user list
+[2025-06-26 02:58 PM +07] UserID: 1, Action: View, Details: User admin viewed their info
+[2025-06-26 03:03 PM +07] UserID: 1, Action: Access, Details: Accessed homepage
+[2025-06-26 03:03 PM +07] UserID: 14, Action: Register, Details: User hoainam1234 registered with encrypted data
+[2025-06-26 03:18 PM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-26 03:19 PM +07] UserID: 17, Action: Register, Details: User 1771020498 registered with encrypted data
+[2025-06-26 03:19 PM +07] UserID: 17, Action: Login, Details: User 1771020498 logged in
+[2025-06-26 03:19 PM +07] UserID: 17, Action: View, Details: User 1771020498 viewed their info
+[2025-06-26 03:19 PM +07] UserID: 17, Action: Logout, Details: User 1771020498 logged out
+[2025-06-26 03:19 PM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-26 03:19 PM +07] UserID: 1, Action: Login, Details: User admin logged in
+[2025-06-26 03:19 PM +07] UserID: 1, Action: View, Details: User admin viewed their info
+[2025-06-26 03:19 PM +07] UserID: 1, Action: View, Details: User admin viewed their info
+[2025-06-26 03:19 PM +07] UserID: 1, Action: View, Details: User admin viewed their info
+[2025-06-26 03:20 PM +07] UserID: 1, Action: Logout, Details: User admin logged out
+[2025-06-26 03:20 PM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-26 03:20 PM +07] UserID: 1, Action: Admin Login, Details: Admin logged in
+[2025-06-26 03:20 PM +07] UserID: Admin, Action: Admin View, Details: Admin viewed user list
+[2025-06-26 03:20 PM +07] UserID: 1, Action: Logout, Details: User admin logged out
+[2025-06-26 03:20 PM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-26 03:21 PM +07] UserID: 1, Action: Admin Login, Details: Admin logged in
+[2025-06-26 03:21 PM +07] UserID: Admin, Action: Admin View, Details: Admin viewed user list
+[2025-06-26 03:21 PM +07] UserID: Admin, Action: Admin View, Details: Admin viewed sensitive data of user 1771020498
+[2025-06-26 03:23 PM +07] UserID: Admin, Action: Admin View, Details: Admin viewed sensitive data of user hoainam1234
+[2025-06-26 03:23 PM +07] UserID: Admin, Action: Admin View, Details: Admin viewed sensitive data of user hoainam1234
+[2025-06-26 03:23 PM +07] UserID: Admin, Action: Admin View, Details: Admin viewed sensitive data of user 1771020498
+[2025-06-26 03:24 PM +07] UserID: Guest, Action: Access Denied, Details: Attempted to access admin panel without verification
+[2025-06-26 03:25 PM +07] UserID: 1, Action: Admin Login, Details: Admin logged in
+[2025-06-26 03:25 PM +07] UserID: Admin, Action: Admin View, Details: Admin viewed user list
+[2025-06-26 03:25 PM +07] UserID: Admin, Action: Admin View, Details: Admin viewed sensitive data of user hoainam1234
+[2025-06-26 03:34 PM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-26 03:34 PM +07] UserID: 1, Action: Admin Login, Details: Admin logged in
+[2025-06-26 03:34 PM +07] UserID: Admin, Action: Admin View, Details: Admin viewed user list
+[2025-06-26 03:34 PM +07] UserID: 1, Action: Logout, Details: User admin logged out
+[2025-06-26 03:34 PM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-26 03:34 PM +07] UserID: 3, Action: Register, Details: User 1771020498 registered with encrypted data
+[2025-06-26 03:34 PM +07] UserID: 1, Action: Admin Login, Details: Admin logged in
+[2025-06-26 03:34 PM +07] UserID: Admin, Action: Admin View, Details: Admin viewed user list
+[2025-06-26 03:34 PM +07] UserID: Admin, Action: Admin View, Details: Admin viewed sensitive data of user 1771020498
+[2025-06-26 03:50 PM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-26 03:50 PM +07] UserID: Unknown, Action: Failed Login, Details: Failed login attempt with username: 1771020498
+[2025-06-26 03:50 PM +07] UserID: 3, Action: Register, Details: User 1771020498 registered with encrypted data
+[2025-06-26 03:51 PM +07] UserID: 1, Action: Admin Login, Details: Admin logged in
+[2025-06-26 03:51 PM +07] UserID: Admin, Action: Admin View, Details: Admin viewed user list
+[2025-06-26 03:51 PM +07] UserID: Admin, Action: Admin View, Details: Admin viewed sensitive data of user 1771020498
+[2025-06-26 03:51 PM +07] UserID: Admin, Action: Admin View, Details: Admin viewed user list
+[2025-06-26 03:51 PM +07] UserID: Admin, Action: Admin View, Details: Admin viewed sensitive data of user 1771020498
+[2025-06-26 03:51 PM +07] UserID: Admin, Action: Admin View, Details: Admin viewed user list
+[2025-06-26 03:58 PM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-26 03:59 PM +07] UserID: 3, Action: Login, Details: User 1771020498 logged in
+[2025-06-26 03:59 PM +07] UserID: 3, Action: View, Details: User 1771020498 viewed their info
+[2025-06-26 03:59 PM +07] UserID: 3, Action: Logout, Details: User 1771020498 logged out
+[2025-06-26 03:59 PM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-26 03:59 PM +07] UserID: 1, Action: Admin Login, Details: Admin logged in
+[2025-06-26 03:59 PM +07] UserID: Admin, Action: Admin View, Details: Admin viewed user list
+[2025-06-26 03:59 PM +07] UserID: Admin, Action: Admin View, Details: Admin viewed user list
+[2025-06-26 03:59 PM +07] UserID: Admin, Action: Admin View, Details: Admin viewed sensitive data of user 1771020498
+[2025-06-26 03:59 PM +07] UserID: Admin, Action: Admin View, Details: Admin viewed user list
+[2025-06-26 03:59 PM +07] UserID: 1, Action: View, Details: User admin viewed their info
+[2025-06-26 03:59 PM +07] UserID: 1, Action: Logout, Details: User admin logged out
+[2025-06-26 03:59 PM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-26 03:59 PM +07] UserID: 3, Action: Login, Details: User 1771020498 logged in
+[2025-06-26 03:59 PM +07] UserID: 3, Action: View, Details: User 1771020498 viewed their info
+[2025-06-26 03:59 PM +07] UserID: 3, Action: View, Details: User 1771020498 viewed their info
+[2025-06-26 03:59 PM +07] UserID: 3, Action: View, Details: User 1771020498 viewed their info
+[2025-06-26 03:59 PM +07] UserID: 3, Action: View, Details: User 1771020498 viewed their info
+[2025-06-26 03:59 PM +07] UserID: 3, Action: View, Details: User 1771020498 viewed their info
+[2025-06-26 04:00 PM +07] UserID: 3, Action: View, Details: User 1771020498 viewed their info
+[2025-06-26 04:00 PM +07] UserID: 3, Action: Logout, Details: User 1771020498 logged out
+[2025-06-26 04:00 PM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-26 04:00 PM +07] UserID: 1, Action: Admin Login, Details: Admin logged in
+[2025-06-26 04:00 PM +07] UserID: Admin, Action: Admin View, Details: Admin viewed user list
+[2025-06-26 04:00 PM +07] UserID: 1, Action: View, Details: User admin viewed their info
+[2025-06-26 04:01 PM +07] UserID: 1, Action: Update, Details: User admin updated fields: {'name': 'Anh Nam', 'cmnd': 'x8fMzOohuyHpoQbVslQQAf+Vv9PnG1Cg', 'diachi': 'rb5J/9Jw4I+yy8LyUSQuw5496aiswQnYJ46arcNZPmg=', 'stk_nganhang': '/0XC6Txd+NyXw+/AHg6zJouzv+K7ZFZpfPfKD7V7bU8=', 'so_bhxh': 'w2vhLs3X7S4gL+3QgHRMB3UnIcKitT8ZuwAmXdZ4rfg='}
+[2025-06-26 04:01 PM +07] UserID: 1, Action: View, Details: User admin viewed their info
+[2025-06-26 04:01 PM +07] UserID: 1, Action: Logout, Details: User admin logged out
+[2025-06-26 04:01 PM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-26 04:11 PM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-26 04:11 PM +07] UserID: 3, Action: Login, Details: User 1771020498 logged in
+[2025-06-26 04:11 PM +07] UserID: 3, Action: View, Details: User 1771020498 viewed their info
+[2025-06-26 04:11 PM +07] UserID: 3, Action: Logout, Details: User 1771020498 logged out
+[2025-06-26 04:11 PM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-26 04:11 PM +07] UserID: 3, Action: Login, Details: User 1771020498 logged in
+[2025-06-26 04:11 PM +07] UserID: 3, Action: View, Details: User 1771020498 viewed their info
+[2025-06-26 04:11 PM +07] UserID: 3, Action: Logout, Details: User 1771020498 logged out
+[2025-06-26 04:11 PM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-26 04:11 PM +07] UserID: Guest, Action: Access Denied, Details: Attempted to view user 3 without admin verification
+[2025-06-26 04:15 PM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-26 04:15 PM +07] UserID: 1, Action: Admin Login, Details: Admin logged in
+[2025-06-26 04:15 PM +07] UserID: Admin, Action: Admin View, Details: Admin viewed user list
+[2025-06-26 04:15 PM +07] UserID: 1, Action: Logout, Details: User admin logged out
+[2025-06-26 04:15 PM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-26 04:15 PM +07] UserID: 1, Action: Admin Login, Details: Admin logged in
+[2025-06-26 04:15 PM +07] UserID: Admin, Action: Admin View, Details: Admin viewed user list
+[2025-06-26 04:15 PM +07] UserID: 1, Action: Logout, Details: User admin logged out
+[2025-06-26 04:15 PM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-26 04:19 PM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-26 04:19 PM +07] UserID: 1, Action: Login, Details: User admin logged in
+[2025-06-26 04:19 PM +07] UserID: 1, Action: View, Details: User admin viewed their info
+[2025-06-26 04:19 PM +07] UserID: 1, Action: Logout, Details: User admin logged out
+[2025-06-26 04:19 PM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-26 04:19 PM +07] UserID: 1, Action: Admin Login, Details: Admin logged in
+[2025-06-26 04:19 PM +07] UserID: Admin, Action: Admin View, Details: Admin viewed user list
+[2025-06-26 04:19 PM +07] UserID: 1, Action: Logout, Details: User admin logged out
+[2025-06-26 04:19 PM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-26 04:19 PM +07] UserID: 1, Action: Login, Details: User admin logged in
+[2025-06-26 04:19 PM +07] UserID: 1, Action: View, Details: User admin viewed their info
+[2025-06-26 04:19 PM +07] UserID: 1, Action: Logout, Details: User admin logged out
+[2025-06-26 04:19 PM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-26 04:19 PM +07] UserID: 1, Action: Admin Login, Details: Admin logged in
+[2025-06-26 04:19 PM +07] UserID: Admin, Action: Admin View, Details: Admin viewed user list
+[2025-06-26 04:19 PM +07] UserID: 1, Action: Logout, Details: User admin logged out
+[2025-06-26 04:19 PM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-26 04:22 PM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-26 04:22 PM +07] UserID: 1, Action: Admin Login, Details: Admin logged in
+[2025-06-26 04:22 PM +07] UserID: Admin, Action: Admin View, Details: Admin viewed user list
+[2025-06-26 04:22 PM +07] UserID: 1, Action: Logout, Details: User admin logged out
+[2025-06-26 04:22 PM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-26 04:22 PM +07] UserID: 1, Action: Login, Details: User admin logged in
+[2025-06-26 04:22 PM +07] UserID: 1, Action: View, Details: User admin viewed their info
+[2025-06-26 04:22 PM +07] UserID: 1, Action: Logout, Details: User admin logged out
+[2025-06-26 04:22 PM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-26 04:22 PM +07] UserID: 1, Action: Login, Details: User admin logged in
+[2025-06-26 04:22 PM +07] UserID: 1, Action: View, Details: User admin viewed their info
+[2025-06-26 04:22 PM +07] UserID: 1, Action: Logout, Details: User admin logged out
+[2025-06-26 04:22 PM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-27 04:30 PM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-27 04:59 PM +07] UserID: 17, Action: Register, Details: User hoainamgmail registered with encrypted data
+[2025-06-27 05:01 PM +07] UserID: 17, Action: Login, Details: User hoainamgmail logged in
+[2025-06-27 05:01 PM +07] UserID: 17, Action: View, Details: User hoainamgmail viewed their info
+[2025-06-27 05:10 PM +07] UserID: 17, Action: Update, Details: User hoainamgmail updated fields: {'name': 'HOAINAM', 'cmnd': '+LsQk3n6daxSIJuH50QliwDmQ0xq37Nx', 'diachi': 'Z6TViDTZq0+gg6b6lyLC6lKl/lqlBrKC/+fQaunTbKQ=', 'stk_nganhang': 'dMGHfACOmZsZhGEVdAXNWXSjLSAGTHBmqse8fWkFrvk=', 'so_bhxh': 'fdJEDICRjWT0gHEMEg2wgB3/a8skWdfsrAeNns3Ip8g='}
+[2025-06-27 05:10 PM +07] UserID: 17, Action: View, Details: User hoainamgmail viewed their info
+[2025-06-27 05:11 PM +07] UserID: 17, Action: Logout, Details: User hoainamgmail logged out
+[2025-06-27 05:11 PM +07] UserID: Guest, Action: Access, Details: Accessed homepage
+[2025-06-27 05:11 PM +07] UserID: 1, Action: Admin Login, Details: Admin logged in
+[2025-06-27 05:11 PM +07] UserID: Admin, Action: Admin View, Details: Admin viewed user list
+[2025-06-27 05:13 PM +07] UserID: Admin, Action: Admin View, Details: Admin viewed sensitive data of user hoainamgmail
+[2025-06-27 05:14 PM +07] UserID: 1, Action: Logout, Details: User admin logged out
+[2025-06-27 05:14 PM +07] UserID: Guest, Action: Access, Details: Accessed homepage

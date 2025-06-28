@@ -1,16 +1,28 @@
-{% extends "layout.html" %}
-{% block title %}Quản trị viên{% endblock %}
+{% extends "base.html" %}
+{% block title %}Đăng nhập Admin{% endblock %}
 {% block content %}
-    <h1>Quản trị viên</h1>
-    <form method="post">
-        {{ form.hidden_tag() }}
-        <div class="mb-3">
-            <label class="form-label">{{ form.password.label }}</label>
-            {{ form.password(class="form-control") }}
-            {% for error in form.password.errors %}
-                <div class="text-danger">{{ error }}</div>
-            {% endfor %}
-        </div>
-        {{ form.submit(class="btn btn-primary") }}
-    </form>
+<h2>Đăng nhập Admin</h2>
+{% with messages = get_flashed_messages(with_categories=true) %}
+    {% if messages %}
+        {% for category, message in messages %}
+            <div class="alert alert-{{ category }}">{{ message }}</div>
+        {% endfor %}
+    {% endif %}
+{% endwith %}
+<form method="POST">
+    {{ form.hidden_tag() }}
+    <div class="form-group">
+        {{ form.username.label }} {{ form.username(class="form-control") }}
+        {% for error in form.username.errors %}
+            <div class="alert alert-danger" role="alert">{{ error }}</div>
+        {% endfor %}
+    </div>
+    <div class="form-group">
+        {{ form.password.label }} {{ form.password(class="form-control") }}
+        {% for error in form.password.errors %}
+            <div class="alert alert-danger" role="alert">{{ error }}</div>
+        {% endfor %}
+    </div>
+    {{ form.submit(class="btn btn-success") }}
+</form>
 {% endblock %}
